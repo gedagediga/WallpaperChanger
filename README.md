@@ -2,13 +2,17 @@
 
 - ## Educational Use Only
 
-This script is designed for educational institutions where students frequently change their wallpaper. By using the [`start.bat`](https://github.com/notthecoolguyyouknow/WallpaperChanger/blob/main/start.bat) script, you can ensure that the wallpaper is reset to a consistent image upon startup and change.
+This script is designed for educational institutions where students frequently change their wallpaper. By using the [`start.bat`](https://github.com/gedagediga/WallpaperChanger/blob/main/start.bat) script, you can ensure that the wallpaper is reset to a consistent image upon startup and change.
+
+- ## How to download?
+ 
+  Check **[`how-to-download-md`](https://github.com/gedagediga/WallpaperChanger/blob/main/how-to-download.md)**
 
 - ## Overview
 
-  **[`start.bat`](https://github.com/notthecoolguyyouknow/WallpaperChanger/blob/main/start.bat)**: This file serves as the "installer." It downloads the `.ps1` script to Temp on the system to prevent students from deleting it. Also makes a directory for the configuration. Which is used on the `.ps1` script.
+  **[`start.bat`](https://github.com/gedagediga/WallpaperChanger/blob/main/start.bat)**: This file serves as the "installer." It downloads the `.ps1` script to Temp on the system to prevent students from deleting it. Also makes a directory for the configuration. Which is used on the `.ps1` script.
 
-  The shorter link for the [`start.bat`](https://github.com/notthecoolguyyouknow/WallpaperChanger/blob/main/start.bat) is `http://wallpaper301.gedagediga.lol` (Thanks [`iakzs`](https://github.com/iakzs) for the domain)
+  The shorter link for the [`start.bat`](https://github.com/gedagediga/WallpaperChanger/blob/main/start.bat) is `http://wallpaper301.gedagediga.lol` (Thanks [`iakzs`](https://github.com/iakzs) for the domain)
 - ## Important Notice
 
   This program should only be used in environments where you have explicit permission to do so. The creators of this software do not accept 
