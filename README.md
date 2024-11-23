@@ -1,12 +1,11 @@
+> [!TIP]
+> You can download this using CMD or PowerShell by following the instructions on [here](https://github.com/gedagediga/WallpaperChanger/blob/main/how-to-download.md)
+
 # WallpaperChanger
 
 - ## Educational Use Only
 
 This script is designed for educational institutions where students frequently change their wallpaper. By using the [`start.bat`](https://github.com/gedagediga/WallpaperChanger/blob/main/start.bat) script, you can ensure that the wallpaper is reset to a consistent image upon startup and change.
-
-- ## How to download?
- 
-  Check **[`how-to-download-md`](https://github.com/gedagediga/WallpaperChanger/blob/main/how-to-download.md)**
 
 - ## Overview
 
